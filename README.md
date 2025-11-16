@@ -7,7 +7,7 @@ Hi, I'm Arjun 👋
 - Generative AI: LangChain, RAG, LLMs
 - Data Migration, Microsoft Fabric, Azure, Synapse, SSIS, SAP BODS
 - Python | Streamlit | Power BI
-- Training, Mentoring, and Public Speaking
+- Training and Mentoring
 
 #🔥 My Projects
 | Project | Description | Tech Stack |
@@ -19,6 +19,7 @@ Hi, I'm Arjun 👋
 | [Project 5](link) | AI Video Generator POC | GenAI, Python, HuggingFace |
 
 
-Connect with me on [LinkedIn](link) | [YouTube](link)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/arjunarao-gen-ai/)
+
 
 
