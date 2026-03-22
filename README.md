@@ -4,7 +4,7 @@ Hi, I'm Arjun 👋
 🔹 Passionate about AI, Automation, Learning, and Sharing Knowledge
 
 🧠 My Expertise
-- Generative AI: LangChain, RAG, LLMs
+- AI Engineer: LangChain, RAG, LLMs
 - Data Migration, Microsoft Fabric, Azure, Synapse, SSIS, SAP BODS
 - Python | Streamlit | Power BI
 - Training and Mentoring
