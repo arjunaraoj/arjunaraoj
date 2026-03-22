@@ -1,6 +1,6 @@
 Hi, I'm Arjun 👋
 🔹 Generative AI Engineer | Microsoft Fabric Certified | Trainer | Mentor | Speaker  
-🔹 15+ years experience in GovTech Projects (Singapore)  
+🔹 13+ years experience in GovTech Projects (Singapore)  
 🔹 Passionate about AI, Automation, Learning, and Sharing Knowledge
 
 🧠 My Expertise
