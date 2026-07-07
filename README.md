@@ -1,6 +1,6 @@
 Hi, I'm Arjuna Rao
 
-🔹 Generative AI Engineer | Microsoft Fabric Certified | Trainer | Mentor | Speaker  
+🔹 Generative AI Engineer | Microsoft Fabric Certified | Trainer | Mentor   
 🔹 12+ years experience in GovTech Projects, Data, AI, and Automation  
 🔹 Passionate about GenAI, Agentic AI, Data Engineering, Automation, Learning, and Sharing Knowledge  
 
