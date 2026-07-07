@@ -1,16 +1,22 @@
 Hi, I'm Arjuna Rao
+Senior BI & Power BI Specialist | Generative AI Engineer | Trainer | Mentor
+I am a results-driven BI, Data, and Generative AI professional with 12+ years of experience in GovTech projects, data analytics, AI, and automation. I specialize in building scalable BI solutions, AI-powered applications, agentic AI systems, and enterprise automation workflows.
 
-🔹 Generative AI Engineer | Microsoft Fabric Certified | Trainer | Mentor   
-🔹 12+ years experience in GovTech Projects, Data, AI, and Automation  
-🔹 Passionate about GenAI, Agentic AI, Data Engineering, Automation, Learning, and Sharing Knowledge  
+I am passionate about Generative AI, Agentic AI, Data Engineering, Microsoft Fabric, and helping teams transform business problems into practical data and AI solutions.
+## Certifications
+- Microsoft Certified: Azure AI Engineer Associate - AI-102
+- NVIDIA Certified: Agentic AI - NCP-AAI
+- Google Certified: Generative AI Leader
+- Microsoft Certified: Power BI Data Analyst Associate - PL-300
+- Microsoft Certified: Fabric Analytics Engineer Associate - DP-600
+- Microsoft Certified: Fabric Data Engineer Associate - DP-700
 
-## My Expertise
-
-- Generative AI: LangChain, LangGraph, RAG, LLMs, OpenAI, Multi-Agent Systems
-- Agentic AI: Memory-first agents, AI copilots, web search agents, Redis vector search
-- Data & Analytics: Microsoft Fabric, Azure, Synapse, SSIS, SAP BODS, SQL Server
-- BI & Automation: Power BI, Python, Gradio, Streamlit, ETL automation
-- Training and Mentoring: AI, Data Analytics, Power BI, and Automation
+## Core Expertise
+- **Generative AI:** LangChain, LangGraph, RAG, LLMs, OpenAI, Multi-Agent Systems
+- **Agentic AI:** AI agents, memory-first agents, AI copilots, web search agents, Redis vector search
+- **Data & Analytics:** Microsoft Fabric, Azure, Synapse, SSIS, SAP BODS, SQL Server
+- **BI & Automation:** Power BI, Python, Gradio, Streamlit, ETL automation
+- **Training & Mentoring:** AI, Data Analytics, Power BI, Automation, and Knowledge Sharing
 
 # My Projects
 
