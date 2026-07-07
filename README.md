@@ -1,5 +1,6 @@
 Hi, I'm Arjuna Rao
 Senior BI & Power BI Specialist | Generative AI Engineer | Trainer | Mentor
+
 I am a results-driven BI, Data, and Generative AI professional with 12+ years of experience in GovTech projects, data analytics, AI, and automation. I specialize in building scalable BI solutions, AI-powered applications, agentic AI systems, and enterprise automation workflows.
 
 I am passionate about Generative AI, Agentic AI, Data Engineering, Microsoft Fabric, and helping teams transform business problems into practical data and AI solutions.
