@@ -1,6 +1,6 @@
 # Hi, I'm Arjuna Rao 👋
 
-### Senior BI, Data & Agentic AI Specialist | Generative AI Engineer | Trainer & Mentor
+### Senior BI, Data & Agentic AI Specialist | Generative AI Engineer
 
 I design and build governed AI applications, enterprise analytics platforms, and data automation solutions.
 
