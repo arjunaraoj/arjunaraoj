@@ -4,7 +4,7 @@
 
 I design and build governed AI applications, enterprise analytics platforms, and data automation solutions.
 
-With 12+ years of experience across GovTech, business intelligence, data engineering, AI, and automation, I translate complex business requirements into practical, secure, and explainable solutions—from Microsoft Fabric and Power BI platforms to RAG and multi-agent AI applications.
+With 14 years of experience across GovTech, business intelligence, data engineering, AI, and automation, I translate complex business requirements into practical, secure, and explainable solutions—from Microsoft Fabric and Power BI platforms to RAG and multi-agent AI applications.
 
 My current focus is enterprise Agentic AI: multi-agent orchestration, secure tool use, retrieval-augmented generation, memory, guardrails, evaluation, and human-in-the-loop decision workflows.
 
