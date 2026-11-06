@@ -57,7 +57,7 @@ A multilingual RAG application that helps students ask questions about English a
 
 ## What I Bring
 
-- 12+ years of enterprise BI, data, GovTech, and automation experience
+- 14 years of enterprise BI, data, GovTech, and automation experience
 - Strong connection between business requirements and technical architecture
 - Practical experience designing governed and explainable AI systems
 - Ability to take solutions from data ingestion through user-facing applications
